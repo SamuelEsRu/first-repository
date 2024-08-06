@@ -1,2 +1,2 @@
 # first-repository
-Curso git y github FreeCodeCamp
+Curso Git y Github FreeCodeCamp.
